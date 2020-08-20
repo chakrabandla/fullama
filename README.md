@@ -7,9 +7,9 @@
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 - 📖 &nbsp; Learning: 
 
- ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust)
- ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)
- ![Julia](https://img.shields.io/badge/-Julia-333333?style=flat&logo=Julia)
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust)
+  ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)
+  ![Julia](https://img.shields.io/badge/-Julia-333333?style=flat&logo=Julia)
 - 🌐 &nbsp; Web: 
 
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
