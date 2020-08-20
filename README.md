@@ -2,26 +2,32 @@
 <h3>Skills</h3>
 
 - 💻 &nbsp; Languages: 
+
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 - 📖 &nbsp; Learning: 
+
  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust)
  ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)
  ![Julia](https://img.shields.io/badge/-Julia-333333?style=flat&logo=Julia)
 - 🌐 &nbsp; Web: 
+
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
 - 🛢 &nbsp; Databases: 
+
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ☁️&nbsp; Cloud:
+
   ![OpenStack](https://img.shields.io/badge/-OpenStack-333333?style=flat&logo=OpenStack)
 - ⚙️ &nbsp; Tools: 
+
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Jupyter](https://img.shields.io/badge/-OpenStack-333333?style=flat&logo=OpenStack)
-  ![Pandas](https://img.shields.io/badge/-OpenStack-333333?style=flat&logo=OpenStack)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -41,7 +47,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/anthony-fullam"><img src="https://img.shields.io/badge/-Anthony%20Fullam-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:anthonyfullam@outlook.com"><img src="https://img.shields.io/badge/-anthonyfullam@outlook.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:anthonyfullam@outlook.com"><img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/Fullam_Anthony"><img src="https://img.shields.io/badge/-@Fullam%5F%5FAnthony-1769FF?style=flat-square&logo=Twitter&logoColor=white"/></a>
 </p>
 
