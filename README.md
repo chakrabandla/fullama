@@ -1,4 +1,3 @@
-<h1>Anthony Fullam</h1>
 <h3>Skills</h3>
 
 - 💻 &nbsp; Languages: 
