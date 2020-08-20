@@ -2,20 +2,25 @@
 <h3>Skills</h3>
 
 - 💻 &nbsp; Languages: 
+
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 - 📖 &nbsp; Learning: 
+
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust)
   ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)
   ![Julia](https://img.shields.io/badge/-Julia-333333?style=flat&logo=Julia)
 - 🌐 &nbsp; Web: 
+
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
 - 🛢 &nbsp; Databases: 
+
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ☁️&nbsp; Cloud:
+
   ![OpenStack](https://img.shields.io/badge/-OpenStack-333333?style=flat&logo=OpenStack)
 - ⚙️ &nbsp; Tools: 
 
